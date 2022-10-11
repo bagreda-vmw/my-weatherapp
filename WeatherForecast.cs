@@ -1,4 +1,4 @@
-namespace my-weatherapp;
+namespace tap-workload;
 
 public class WeatherForecast
 {
