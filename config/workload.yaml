@@ -5,10 +5,7 @@ metadata:
   labels:
     apps.tanzu.vmware.com/workload-type: web
     app.kubernetes.io/part-of: my-weatherapp
-<<<<<<< HEAD
-=======
     apps.tanzu.vmware.com/has-tests: "true"
->>>>>>> 9a9d7dd2363e9e730a6bbef2ac24edb4dfe01395
 spec:
   source:
     git:
